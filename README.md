@@ -174,41 +174,12 @@ This project addresses all required guidelines:
 - **Statistics Calculation**: Real-time analytics computation
 - **Data Validation**: Input sanitization and error checking
 
-## 🚀 Future Enhancements
-
-### Planned Features
-- [ ] Web interface using Flask/Django
-- [ ] Email notifications for due tasks
-- [ ] Data synchronization across devices
-- [ ] Task templates and recurring tasks
-- [ ] Collaboration features for team tasks
-- [ ] Data export to CSV/PDF formats
-
-### Possible Extensions
-- Mobile app version
-- Integration with calendar apps
-- AI-based task prioritization
-- Time tracking features
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Developer
 
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@aahana25boe10087-art](https://github.com/aahana25boe10087-art.)
+- Email: aahana.25boe10087@vitbhopal.ac.in
 
 ## 🙏 Acknowledgments
 
